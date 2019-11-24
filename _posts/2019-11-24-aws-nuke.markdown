@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "AWS nuke"
+date:   2019-11-24 12:27:16 +0100
+categories: aws
+---
+The other day I got an email from AWS, saying automatic renewal of *some domain* succeeded. But I was using that domain for testing purpose and totally forgot to delete it. Well logged in my account and saw all the resources I'm using(shared account), you can do this by using [Tag Editor](https://console.aws.amazon.com/resource-groups/tag-editor/find-resources), there were more than 400+ resources and the bill was going 100$+ monthly, the account needed a refresh in other word become zero(I did not want to close and open new account). Started immediately to delete them, tried to delete DHCP instance but it was use by other resources so I had to delete them first. Changing between regions it was pain in the ass, after deleting two or three resources I said I'm not doing this. Tried and googled if there was someway in AWS to delete those (they have some feature for everything), but obviously there was not. Fortunately, I run to this awesome Github repository named [aws-nuke](https://github.com/rebuy-de/aws-nuke). It is written in Go, so installation was easy for me, configured the necessaries, run the tool and it every resource other than those default were gone! If you will use this tool, I advice to be very careful as you may remove resources that you do not want to remove! Now I can start fresh...
