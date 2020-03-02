@@ -5,7 +5,15 @@ date:   2020-03-02 23:29:54 +0100
 categories: math
 ---
 Recently I had homework in Algebra class which I was fond of. I'm sure that there is a pure Algebraic solution to this problem, but I am going to present the solution using a famous theorem in graph theory, [Hall's marriage theorem](https://en.wikipedia.org/wiki/Hall%27s_marriage_theorem#Graph_theoretic_formulation).
-Without prolonging it, here is the problem:
+Without prolonging it, lets get to the definitons(if you familiar skip to the problem):
+
+**Group**: In mathematics, a group is a set equipped with a binary operation that combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility.
+
+**Subgroup:** a subset H of G is called a subgroup of G if H also forms a group under the same operation.
+
+**(Left)Coset(Right):** given an element g of a group G and a subgroup H of G, gH = { gh : h an element of H } is the left coset of H in G with respect to g, and Hg = { hg : h an element of H } is the right coset of H in G with respect to g.
+
+**Transversal:** given a subgroup H of a group G, a right (respectively left) transversal is a set containing exactly one element from each right (respectively left) coset of H.
 
 **Problem:** Let G be a finite group and let H<G(H is a subgroup of G). Show that there is a subset T of G which is simultaneously a left transversal for H and a right transversal for H.
 
