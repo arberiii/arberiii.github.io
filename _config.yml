@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Arbёr Avdullahu's website
-email: arber@bloomlab.io
+email: arbr.avdullahu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   In my website you can find a variety of topics ranging from blockchain and go to aws and linux.
 baseurl: "" # the subpath of your site, e.g. /blog
