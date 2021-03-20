@@ -6,5 +6,5 @@ categories: books
 ---
 
 1. Resurrection by Leo Tolstoy
-2. [Reading] The Death of Ivan Ilyich and Other Stories by Leo Tolstoy
+2. The Death of Ivan Ilyich and Other Stories by Leo Tolstoy
 3. [Reading] Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi
