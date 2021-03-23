@@ -6,9 +6,9 @@ categories: personal
 ---
 
 - Hours & Work Style
-    - Online Hours
-    - Offline Hours
-    - Contact during Offline Hours
+    - Online Hours: `6 AM - 2 PM PT` Monday - Friday
+    - Offline Hours: All other time
+    - Contact during Offline Hours: Telegram
 
 - Collaboration & Communication
     - How do I like to receive feedback?
