@@ -8,3 +8,4 @@ categories: books
 1. Resurrection by Leo Tolstoy
 2. The Death of Ivan Ilyich and Other Stories by Leo Tolstoy
 3. [Reading] Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi
+4. [Reading] Fullstack React: The Complete Guide to ReactJS and Friends by Anthony Accomazzo, Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis
