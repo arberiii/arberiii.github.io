@@ -10,4 +10,4 @@ categories: books
 3. Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi
 4. [Reading] Fullstack React: The Complete Guide to ReactJS and Friends by Anthony Accomazzo, Nate Murray, Ari Lerner
 5. The death of civil servant by Anton Chekhov
-6. Meditations by René Descartes
+6. [Reading] Meditations by René Descartes
