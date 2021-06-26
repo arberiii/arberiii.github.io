@@ -8,6 +8,7 @@ categories: books
 1. Resurrection by Leo Tolstoy
 2. The Death of Ivan Ilyich and Other Stories by Leo Tolstoy
 3. Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi
-4. [Reading] Fullstack React: The Complete Guide to ReactJS and Friends by Anthony Accomazzo, Nate Murray, Ari Lerner
+4. Fullstack React: The Complete Guide to ReactJS and Friends by Anthony Accomazzo, Nate Murray, Ari Lerner
 5. The death of civil servant by Anton Chekhov
 6. Of Mice And Men by John Steinbeck
+7. [Reading] The Appeal by John Grisham
