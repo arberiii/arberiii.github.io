@@ -13,4 +13,5 @@ categories: books
 6. Of Mice And Men by John Steinbeck
 7. The Appeal by John Grisham
 8. Mumu by Ivan Turgenev
-9. [Reading] Novels for a year by Luigi Pirandello
+9. Novels for a year by Luigi Pirandello
+10. [Reading] Stoner by John Williams
