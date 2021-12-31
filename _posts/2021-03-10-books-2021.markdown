@@ -17,3 +17,4 @@ categories: books
 10. Stoner by John Williams
 11. Siddhartha by Hermann Hesse
 12. The story of a nobody by Anton Chekhov
+13. The Last Day of a Condemned Man by Victor Hugo
