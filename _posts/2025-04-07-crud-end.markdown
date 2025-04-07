@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "The End of CRUD Apps as We Know Them"
+date:   2025-04-07 14:07:36 +0100
+categories: ai
+---
+I still remember being in 10th grade (around 2014), trying to build a landing page for a furniture store owned by someone I knew. Writing a simple HTML page with a bit of CSS and JavaScript was manageable—but creating something that looked professional? That was much harder.
+
+Then I discovered website builders like Wix. They let you pick from ready-made templates and just swap out titles, photos, and descriptions. Publishing was a breeze. At the time, web design agencies still had plenty of business, but tools like Wix marked a shift: for many small business owners, it became easier to build their own site or hire a freelance designer, rather than working with a full dev team that might not even deliver something to their taste.
+
+Thanks for reading! Subscribe for free to receive new posts and support my work.
+
+Fast forward to today, and the trend has only accelerated. If you're a local business—say, a small furniture store—all you really need online is your address, opening hours, maybe some sample photos. You can do that with a website builder, a no-code tool, or even just an Instagram page. For many, Instagram is the business's digital storefront. And honestly, that’s a pretty solid approach.
+
+But what about more complex functionality? Imagine a shop that wants to manage its inventory: different types of furniture, prices, specs, invoices, and analytics. Traditionally, this would require a backend with a database and a web server to handle CRUD operations (Create, Read, Update, Delete). You might hire a developer to build it from scratch or use a CMS like WordPress or PocketBase—tools that come preloaded with much of what you need.
+
+But here's the thing: even that might become obsolete.
+
+With the rise of AI-driven tools and models, we’re entering a world where you might not need to write a single line of backend code or even set up a CMS. Instead, imagine telling an AI: “I want to keep a list of all the tables in my store, along with prices and quantities,” and having it generate a full application, including the database, the logic, and the interface, in seconds.
+
+AI models can already understand user intent well enough to generate dynamic queries. So instead of building APIs with narrowly defined endpoints (which still require lots of work to get right), you can expose the database—securely—and let users ask exactly what they want. Privacy and access control can be enforced at the AI layer. As these primitives mature, they'll make managing a business vastly simpler.
+
+In this AI-first future, the barrier to building internal tools or customer-facing apps will collapse. The cost of development will drop dramatically, and the role of engineers will shift from building CRUD apps to designing smarter systems that orchestrate and safeguard AI.
+
+We're not just automating code—we're automating decisions about code.
+
+Thanks for reading! Subscribe for free to receive new posts and support my work.
