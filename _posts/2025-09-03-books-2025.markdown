@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Books I'm reading in 2025
+title:  "Books I'm reading in 2025"
 date:   2025-09-03 12:14:06 +0100
 categories: books
 ---
