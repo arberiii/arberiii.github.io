@@ -1,0 +1,15 @@
+{
+  "buildCommand": "gem install bundler && bundle install && bundle exec jekyll build",
+  "outputDirectory": "_site",
+  "framework": "jekyll",
+  "installCommand": "gem install bundler",
+  "functions": {
+    "api/*.rb": {
+      "runtime": "ruby2.7"
+    }
+  },
+  "env": {
+    "BUNDLE_GEMFILE": "Gemfile",
+    "BUNDLE_PATH": "vendor/bundle"
+  }
+}
