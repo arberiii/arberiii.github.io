@@ -1,10 +1,11 @@
 {
-  "buildCommand": "gem install bundler && bundle install && bundle exec jekyll build",
+  "buildCommand": "bundle install --path vendor/bundle && bundle exec jekyll build",
   "outputDirectory": "_site",
   "framework": "jekyll",
-  "installCommand": "gem install bundler",
+  "installCommand": "gem install bundler --user-install",
   "env": {
     "BUNDLE_GEMFILE": "Gemfile",
-    "BUNDLE_PATH": "vendor/bundle"
+    "BUNDLE_PATH": "vendor/bundle",
+    "BUNDLE_USER_HOME": "~/.bundle"
   }
 }
